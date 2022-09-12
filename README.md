@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=300&section=header&text=AHYUN JEONG&fontSize=90&animation=twinkling)
 
+
 ## 🛠 Tech Stack
 
 **Front-end**
@@ -11,9 +12,11 @@
 
 
 
+
 ## 📞 Contact & Channel
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=unhhyyee66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/unhheeyy66@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://github.com/unhhyyeexx" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=Github&logoColor=white"/></a>
+
 
 
 
