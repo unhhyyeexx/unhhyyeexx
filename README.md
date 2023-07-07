@@ -19,7 +19,3 @@
 
 
 
-
-## 📈 GitHub Stats
-
-[![unhhyyeexx's GitHub stats](https://github-readme-stats.vercel.app/api?username=unhhyyeexx&show_icons=true&theme=cobalt)](https://github.com/unhhyyeexx/github-readme-stats)
